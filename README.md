@@ -20,5 +20,5 @@ As a data enthusiast, I'm dedicated to leveraging data for insights and solution
 - Tableau
 - Object-Oriented Programming (OOP)
 
-🌐 LinkedIn: ([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/maitra-amrita/))
+🌐 LinkedIn: (https://www.linkedin.com/in/maitra-amrita/))
 
